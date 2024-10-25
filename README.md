@@ -14,12 +14,37 @@ This guide is designed to help you navigate all important faction choices, quest
    - [Forgotten Gods Expansion](#forgotten-gods-expansion)
 4. [Detailed Choices by Act and Difficulty](#detailed-choices-by-act-and-difficulty)
    - [Act 1 Choices](#act-1-choices)
+     - [Tale of Two Blacksmiths (Angrim vs. Duncan)](#tale-of-two-blacksmiths-angrim-vs-duncan)
+     - [Ulgrim's Interaction](#ulgrims-interaction)
+     - [Direni's Fate](#direnis-fate)
+     - [Kasparov's Experiment (Hargate's Formula)](#kasparovs-experiment-hargates-formula)
    - [Act 2 Choices](#act-2-choices)
+     - [Isaiah Reddan's Quest](#isaiah-reddans-quest)
+     - [Skinner Family](#skinner-family)
+     - [Rover Elder's Talisman](#rover-elders-talisman)
+     - [Alicia's Quest (Silas)](#alicias-quest-silas)
+     - [Couple on the Road](#couple-on-the-road)
    - [Act 3 Choices](#act-3-choices)
+     - [Kalista's Rescue](#kalistas-rescue)
+     - [Faction Choice: Kymon's Chosen vs. Order of Death's Vigil](#faction-choice-kymons-chosen-vs-order-of-deaths-vigil)
+     - [Burn the Witch](#burn-the-witch)
    - [Act 4 Choices](#act-4-choices)
+     - [Lost Armaments](#lost-armaments)
+     - [Anasteria's Fate](#anasterias-fate)
    - [Act 5 Choices](#act-5-choices)
+     - [Faction Choice: Barrowholm](#faction-choice-barrowholm)
+     - [Ulgrim in the Void](#ulgrim-in-the-void)
    - [Act 6 Choices](#act-6-choices)
+     - [Trapped Bloodsworn](#trapped-bloodsworn)
+     - [Nicoh Erin and Kids](#nicoh-erin-and-kids)
+     - [Ivonda's Diary](#ivondas-diary)
+     - [Prisoner in The Fleshworks](#prisoner-in-the-fleshworks)
+     - [Post-Fleshworks NPC Dialogue](#post-fleshworks-npc-dialogue)
+     - [Anasteria and Korinia Interactions](#anasteria-and-korinia-interactions)
    - [Act 7 Choices](#act-7-choices)
+     - [Faction Choice: Solael vs. Dreeg vs. Bysmiel](#faction-choice-solael-vs-dreeg-vs-bysmiel)
+     - [Solael's Aspirants](#solaels-aspirants)
+     - [Ruins of Abyd Boss](#ruins-of-abyd-boss)
 5. [Easily Missable Quests and Points of No Return](#easily-missable-quests-and-points-of-no-return)
    - [Act 1 Missable Quests](#act-1-missable-quests)
    - [Act 2 Missable Quests](#act-2-missable-quests)
@@ -109,7 +134,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ### Act 1 Choices
 
-#### 1. Tale of Two Blacksmiths (Angrim vs. Duncan)
+#### [Tale of Two Blacksmiths (Angrim vs. Duncan)](https://grimdawn.fandom.com/wiki/Tale_of_Two_Blacksmiths)
 
 **Location**: Burrwitch Outskirts
 
@@ -132,7 +157,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ---
 
-#### 2. Ulgrim's Interaction
+#### [Ulgrim's Interaction](https://grimdawn.fandom.com/wiki/Ulgrim)
 
 **Location**: Burrwitch Outskirts
 
@@ -154,7 +179,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ---
 
-#### 3. Direni's Fate
+#### [Direni's Fate](https://grimdawn.fandom.com/wiki/A_Cultist_in_the_Midst)
 
 **Location**: Devil's Crossing
 
@@ -176,7 +201,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ---
 
-#### 4. Kasparov's Experiment (Hargate's Formula)
+#### [Kasparov's Experiment (Hargate's Formula)](https://grimdawn.fandom.com/wiki/Hargate%27s_Formula)
 
 **Requirement**: Honored reputation with Devil's Crossing
 
@@ -200,7 +225,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ### Act 2 Choices
 
-#### 5. Isaiah Reddan's Quest
+#### [Isaiah Reddan's Quest](https://grimdawn.fandom.com/wiki/Isaiah_Reddan)
 
 **Location**: Arkovian Foothills
 
@@ -222,7 +247,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ---
 
-#### 6. Skinner Family
+#### [Skinner Family](https://grimdawn.fandom.com/wiki/Skinner)
 
 **Location**: Twin Falls (near Kymon's Retreat)
 
@@ -244,7 +269,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ---
 
-#### 7. Rover Elder's Talisman
+#### [Rover Elder's Talisman](https://grimdawn.fandom.com/wiki/Rover_Elder%27s_Talisman)
 
 **Location**: Old Arkovia
 
@@ -266,7 +291,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ---
 
-#### 8. Alicia's Quest (Silas)
+#### [Alicia's Quest (Silas)](https://grimdawn.fandom.com/wiki/Alicia)
 
 **Location**: New Harbor, Old Arkovia
 
@@ -288,7 +313,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ---
 
-#### 9. Couple on the Road
+#### [Couple on the Road](https://grimdawn.fandom.com/wiki/Couple_on_the_Road)
 
 **Location**: Twin Falls towards East Marsh
 
@@ -312,7 +337,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ### Act 3 Choices
 
-#### 10. Kalista's Rescue
+#### [Kalista's Rescue](https://grimdawn.fandom.com/wiki/Kalista)
 
 **Location**: Hallowed Hill
 
@@ -334,7 +359,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ---
 
-#### 11. Faction Choice: Kymon's Chosen vs. Order of Death's Vigil
+#### Faction Choice: [Kymon's Chosen](https://grimdawn.fandom.com/wiki/Kymon%27s_Chosen) vs. [Order of Death's Vigil](https://grimdawn.fandom.com/wiki/Order_of_Death%27s_Vigil)
 
 **Location**: Homestead
 
@@ -356,7 +381,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ---
 
-#### 12. Burn the Witch
+#### [Burn the Witch](https://grimdawn.fandom.com/wiki/Burn_the_Witch)
 
 **Location**: Blood Grove
 
@@ -380,7 +405,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ### Act 4 Choices
 
-#### 13. Lost Armaments
+#### [Lost Armaments](https://grimdawn.fandom.com/wiki/Lost_Armaments)
 
 **Location**: Fort Ikon
 
@@ -392,8 +417,8 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 | Difficulty   | Choice                                      | Consequences                                                      |
 |--------------|---------------------------------------------|-------------------------------------------------------------------|
-| **Normal**   | **Return supplies to Black Legion in Fort Ikon** | - Gain reputation with Black Legion.<br>- Receive their rewards. |
-| **Elite**    | **Give supplies to Homestead**              | - Gain reputation with Homestead.<br>- Different rewards.         |
+| **Normal**   | **Return supplies to Black Legion in Fort Ikon** | - Gain reputation with [Black Legion](https://grimdawn.fandom.com/wiki/Black_Legion).<br>- Receive their rewards. |
+| **Elite**    | **Give supplies to Homestead**              | - Gain reputation with [Homestead](https://grimdawn.fandom.com/wiki/Homestead).<br>- Different rewards.         |
 | **Ultimate** | **Any choice**                              | - You've experienced both outcomes.                               |
 
 **Note**: This quest is **easily missable** because it's optional and requires finding specific items.
@@ -402,7 +427,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ---
 
-#### 14. Anasteria's Fate
+#### [Anasteria's Fate](https://grimdawn.fandom.com/wiki/Anasteria)
 
 **Location**: Fort Ikon
 
@@ -426,7 +451,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ### Act 5 Choices
 
-#### 15. Barrowholm Faction Choice
+#### Faction Choice: [Barrowholm](https://grimdawn.fandom.com/wiki/Barrowholm)
 
 **Location**: Barrowholm
 
@@ -448,7 +473,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ---
 
-#### 16. Ulgrim in the Void
+#### [Ulgrim in the Void](https://grimdawn.fandom.com/wiki/Ulgrim)
 
 **Location**: Void's Edge
 
@@ -472,7 +497,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ### Act 6 Choices
 
-#### 17. Trapped Bloodsworn
+#### [Trapped Bloodsworn](https://grimdawn.fandom.com/wiki/Trapped_Bloodsworn)
 
 **Location**: Malmouth Sewers
 
@@ -494,7 +519,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ---
 
-#### 18. Nicoh Erin and Kids
+#### [Nicoh Erin and Kids](https://grimdawn.fandom.com/wiki/Nicoh_Erin)
 
 **Location**: Malmouth Outskirts
 
@@ -516,7 +541,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ---
 
-#### 19. Ivonda's Diary
+#### [Ivonda's Diary](https://grimdawn.fandom.com/wiki/Ivonda)
 
 **Location**: Malmouth Sewers
 
@@ -538,7 +563,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ---
 
-#### 20. Prisoner in The Fleshworks
+#### [Prisoner in The Fleshworks](https://grimdawn.fandom.com/wiki/Prisoner_in_The_Fleshworks)
 
 **Location**: The Fleshworks
 
@@ -560,7 +585,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ---
 
-#### 21. Post-Fleshworks NPC Dialogue
+#### [Post-Fleshworks NPC Dialogue](https://grimdawn.fandom.com/wiki/Post-Fleshworks_NPC_Dialogue)
 
 **Location**: After The Fleshworks
 
@@ -582,7 +607,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ---
 
-#### 22. Anasteria and Korinia Interactions
+#### [Anasteria and Korinia Interactions](https://grimdawn.fandom.com/wiki/Anasteria) & [Korinia](https://grimdawn.fandom.com/wiki/Korinia)
 
 **Requirement**: Anasteria must be alive; Honored reputation required.
 
@@ -606,7 +631,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ### Act 7 Choices
 
-#### 23. Witch Gods Faction Choice
+#### Faction Choice: [Solael](https://grimdawn.fandom.com/wiki/Solael) vs. [Dreeg](https://grimdawn.fandom.com/wiki/Dreeg) vs. [Bysmiel](https://grimdawn.fandom.com/wiki/Bysmiel)
 
 **Location**: Conclave of the Three
 
@@ -628,7 +653,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ---
 
-#### 24. Solael's Aspirants
+#### [Solael's Aspirants](https://grimdawn.fandom.com/wiki/Solael%27s_Aspirants)
 
 **Location**: Solael's Bastion
 
@@ -650,7 +675,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ---
 
-#### 25. Ruins of Abyd Boss
+#### [Ruins of Abyd Boss](https://grimdawn.fandom.com/wiki/Ruins_of_Abyd)
 
 **Location**: Ruins of Abyd
 
