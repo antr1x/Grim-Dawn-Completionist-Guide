@@ -45,14 +45,14 @@ This guide is designed to help you navigate all important faction choices, quest
      - [Faction Choice: Solael vs. Dreeg vs. Bysmiel](#faction-choice-solael-vs-dreeg-vs-bysmiel)
      - [Solael's Aspirants](#solaels-aspirants)
      - [Ruins of Abyd Boss](#ruins-of-abyd-boss)
-5. [Easily Missable Quests and Points of No Return](#easily-missable-quests-and-points-of-no-return)
-   - [Act 1 Missable Quests](#act-1-missable-quests)
-   - [Act 2 Missable Quests](#act-2-missable-quests)
-   - [Act 3 Missable Quests](#act-3-missable-quests)
-   - [Act 4 Missable Quests](#act-4-missable-quests)
-   - [Act 5 Missable Quests](#act-5-missable-quests)
-   - [Act 6 Missable Quests](#act-6-missable-quests)
-   - [Act 7 Missable Quests](#act-7-missable-quests)
+5. [Easily Missable Content and Points of No Return](#easily-missable-content-and-points-of-no-return)  
+   - [Act 1 Missable Content](#act-1-missable-content)  
+   - [Act 2 Missable Content](#act-2-missable-content)  
+   - [Act 3 Missable Content](#act-3-missable-content)  
+   - [Act 4 Missable Content](#act-4-missable-content)  
+   - [Act 5 Missable Content](#act-5-missable-content)  
+   - [Act 6 Missable Content](#act-6-missable-content)  
+   - [Act 7 Missable Content](#act-7-missable-content)  
 6. [Final Notes](#final-notes)
 7. [Credits](#credits)
 
@@ -81,7 +81,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ### Base Game
 
-#### Kymon's Chosen vs. Order of Death's Vigil
+#### [Kymon's Chosen](https://grimdawn.fandom.com/wiki/Kymon%27s_Chosen) vs. [Order of Death's Vigil](https://grimdawn.fandom.com/wiki/Order_of_Death%27s_Vigil)
 
 - **Impact**: Unique faction quests, items, and Nemesis bosses.
 - **Strategy**:
@@ -92,7 +92,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ---
 
-#### Anasteria - Friendly vs. Hostile
+#### [Anasteria](https://grimdawn.fandom.com/wiki/Anasteria) - Friendly vs. Hostile
 
 - **Impact**: Access to her quests and shop (friendly) vs. unique helmet drop (hostile).
 - **Strategy**:
@@ -105,9 +105,9 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ### Ashes of Malmouth Expansion
 
-#### Barrowholm - Friendly vs. Hostile
+#### [Barrowholm](https://grimdawn.fandom.com/wiki/Barrowholm) - Friendly vs. Hostile
 
-- **Impact**: Access to Barrowholm quests and items (friendly) vs. fighting Ravager for unique helmet (hostile).
+- **Impact**: Access to Barrowholm quests and items (friendly) vs. fighting [Ravager](https://grimdawn.fandom.com/wiki/Ravager) for unique helmet (hostile).
 - **Strategy**:
   - Be **friendly** on **Elite** and **Ultimate** to access their content.
   - Consider being **hostile** on **Normal** if lower-level items are desired.
@@ -118,9 +118,9 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ### Forgotten Gods Expansion
 
-#### Witch Gods Faction Choice
+#### [Witch Gods Faction Choice](https://grimdawn.fandom.com/wiki/Witch_Gods)
 
-- **Factions**: Solael, Dreeg, Bysmiel
+- **Factions**: [Solael](https://grimdawn.fandom.com/wiki/Solael), [Dreeg](https://grimdawn.fandom.com/wiki/Dreeg), [Bysmiel](https://grimdawn.fandom.com/wiki/Bysmiel)
 - **Impact**: Unique questlines and rewards.
 - **Strategy**:
   - Choose a different faction on each difficulty to experience all questlines.
@@ -136,12 +136,12 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Tale of Two Blacksmiths (Angrim vs. Duncan)](https://grimdawn.fandom.com/wiki/Tale_of_Two_Blacksmiths)
 
-**Location**: Burrwitch Outskirts
+**Location**: [Burrwitch Outskirts](https://grimdawn.fandom.com/wiki/Burrwitch_Outskirts)
 
 **Choice Description**:
 
-- **Angrim** – Experienced blacksmith specializing in physical damage and heavy armor.
-- **Duncan** – Young blacksmith focusing on elemental and magical equipment.
+- **[Angrim](https://grimdawn.fandom.com/wiki/Angrim)** – Experienced blacksmith specializing in physical damage and heavy armor.
+- **[Duncan](https://grimdawn.fandom.com/wiki/Duncan)** – Young blacksmith focusing on elemental and magical equipment.
 
 ##### Choices and Consequences:
 
@@ -149,7 +149,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 |--------------|--------------------------------------------|---------------------------------------------------------------|
 | **Normal**   | **Choose Angrim**                          | - Access to Angrim's services and recipes.<br>- Duncan unavailable. |
 | **Elite**    | **Choose Duncan**,<br>**Kill Angrim**      | - Access to Duncan's services.<br>- Obtain loot from Angrim.<br>- Angrim unavailable thereafter. |
-| **Ultimate** | **Choose Duncan**,<br>**Spare Angrim**     | - Access to Duncan's services.<br>- Meet Angrim later in Fort Ikon for additional dialogue. |
+| **Ultimate** | **Choose Duncan**,<br>**Spare Angrim**     | - Access to Duncan's services.<br>- Meet Angrim later in [Fort Ikon](https://grimdawn.fandom.com/wiki/Fort_Ikon) for additional dialogue. |
 
 **Note**: This quest is **easily missable** if you don't explore the side area in the Burrwitch Outskirts where the blacksmiths are located.
 
@@ -159,11 +159,11 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Ulgrim's Interaction](https://grimdawn.fandom.com/wiki/Ulgrim)
 
-**Location**: Burrwitch Outskirts
+**Location**: [Burrwitch Outskirts](https://grimdawn.fandom.com/wiki/Burrwitch_Outskirts)
 
 **Choice Description**:
 
-- Inform Ulgrim about the prison situation or not.
+- Inform [Ulgrim](https://grimdawn.fandom.com/wiki/Ulgrim) about the prison situation or not.
 
 ##### Choices and Consequences:
 
@@ -181,18 +181,18 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Direni's Fate](https://grimdawn.fandom.com/wiki/A_Cultist_in_the_Midst)
 
-**Location**: Devil's Crossing
+**Location**: [Devil's Crossing](https://grimdawn.fandom.com/wiki/Devil%27s_Crossing)
 
 **Choice Description**:
 
-- Decide Direni's fate during the quest "A Cultist in the Midst".
+- Decide [Direni's](https://grimdawn.fandom.com/wiki/Direni) fate during the quest "[A Cultist in the Midst](https://grimdawn.fandom.com/wiki/A_Cultist_in_the_Midst)".
 
 ##### Choices and Consequences:
 
 | Difficulty   | Choice                                 | Consequences                                                      |
 |--------------|----------------------------------------|-------------------------------------------------------------------|
 | **Normal**   | **Kill Direni immediately**            | - Obtain loot from Direni.<br>- Prevent future encounters with him. |
-| **Elite**    | **Let Direni go**                      | - Encounter Direni later in Cronley's Hideout.<br>- Additional loot and experience. |
+| **Elite**    | **Let Direni go**                      | - Encounter Direni later in [Cronley's Hideout](https://grimdawn.fandom.com/wiki/Cronley%27s_Hideout).<br>- Additional loot and experience. |
 | **Ultimate** | **Ignore Direni**                      | - Direni ends up in Cronley's Hideout.<br>- Similar to letting him go. |
 
 **Note**: The option to kill Direni immediately is **easily missable** if you don't speak to him directly.
@@ -203,17 +203,17 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Kasparov's Experiment (Hargate's Formula)](https://grimdawn.fandom.com/wiki/Hargate%27s_Formula)
 
-**Requirement**: Honored reputation with Devil's Crossing
+**Requirement**: Honored reputation with [Devil's Crossing](https://grimdawn.fandom.com/wiki/Devil%27s_Crossing)
 
 **Choice Description**:
 
-- Decide what to do with Hargate's Formula.
+- Decide what to do with [Hargate's Formula](https://grimdawn.fandom.com/wiki/Hargate%27s_Formula).
 
 ##### Choices and Consequences:
 
 | Difficulty   | Choice                                  | Consequences                                                         |
 |--------------|-----------------------------------------|----------------------------------------------------------------------|
-| **Normal**   | **Return the formula to Kasparov**      | - Receive Kasparov's reward.<br>- Cannot obtain Hargate's reward on this character. |
+| **Normal**   | **Return the formula to [Kasparov](https://grimdawn.fandom.com/wiki/Kasparov)** | - Receive Kasparov's reward.<br>- Cannot obtain Hargate's reward on this character. |
 | **Elite**    | **Keep the formula**                    | - Receive Hargate's reward.<br>- Cannot obtain Kasparov's reward on this character. |
 | **Ultimate** | **Either choice (cannot get both)**     | - You've experienced both rewards on previous difficulties.          |
 
@@ -227,17 +227,17 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Isaiah Reddan's Quest](https://grimdawn.fandom.com/wiki/Isaiah_Reddan)
 
-**Location**: Arkovian Foothills
+**Location**: [Arkovian Foothills](https://grimdawn.fandom.com/wiki/Arkovian_Foothills)
 
 **Choice Description**:
 
-- Interact with Isaiah Reddan, a dying man on the road.
+- Interact with [Isaiah Reddan](https://grimdawn.fandom.com/wiki/Isaiah_Reddan), a dying man on the road.
 
 ##### Choices and Consequences:
 
 | Difficulty   | Choice                                          | Consequences                                                      |
 |--------------|-------------------------------------------------|-------------------------------------------------------------------|
-| **Normal**   | **Be hostile but don't kill him**               | - He reappears in Homestead.<br>- Further interactions possible.  |
+| **Normal**   | **Be hostile but don't kill him**               | - He reappears in [Homestead](https://grimdawn.fandom.com/wiki/Homestead).<br>- Further interactions possible.  |
 | **Elite**    | **Be hostile and kill him**                     | - Obtain loot immediately.<br>- No further interactions.          |
 | **Ultimate** | **Be kind and supportive**                      | - Positive interaction.<br>- Different dialogue in Homestead.     |
 
@@ -249,11 +249,11 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Skinner Family](https://grimdawn.fandom.com/wiki/Skinner)
 
-**Location**: Twin Falls (near Kymon's Retreat)
+**Location**: [Twin Falls](https://grimdawn.fandom.com/wiki/Twin_Falls) (near [Kymon's Retreat](https://grimdawn.fandom.com/wiki/Kymon%27s_Retreat))
 
 **Choice Description**:
 
-- Deal with Skinner, who is distraught over his family's fate.
+- Deal with [Skinner](https://grimdawn.fandom.com/wiki/Skinner), who is distraught over his family's fate.
 
 ##### Choices and Consequences:
 
@@ -271,11 +271,11 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Rover Elder's Talisman](https://grimdawn.fandom.com/wiki/Rover_Elder%27s_Talisman)
 
-**Location**: Old Arkovia
+**Location**: [Old Arkovia](https://grimdawn.fandom.com/wiki/Old_Arkovia)
 
 **Choice Description**:
 
-- Decide whether to return or keep the Rover Elder's talisman.
+- Decide whether to return or keep the [Rover Elder's talisman](https://grimdawn.fandom.com/wiki/Rover_Elder%27s_Talisman).
 
 ##### Choices and Consequences:
 
@@ -293,17 +293,17 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Alicia's Quest (Silas)](https://grimdawn.fandom.com/wiki/Alicia)
 
-**Location**: New Harbor, Old Arkovia
+**Location**: [New Harbor](https://grimdawn.fandom.com/wiki/New_Harbor), [Old Arkovia](https://grimdawn.fandom.com/wiki/Old_Arkovia)
 
 **Choice Description**:
 
-- Decide whether to help or betray Silas.
+- Decide whether to help or betray [Silas](https://grimdawn.fandom.com/wiki/Silas).
 
 ##### Choices and Consequences:
 
 | Difficulty   | Choice                                    | Consequences                                                      |
 |--------------|-------------------------------------------|-------------------------------------------------------------------|
-| **Normal**   | **Help Alicia, don't kill Silas**         | - Positive outcome.<br>- Return to Alicia after progressing further. |
+| **Normal**   | **Help [Alicia](https://grimdawn.fandom.com/wiki/Alicia), don't kill Silas** | - Positive outcome.<br>- Return to Alicia after progressing further. |
 | **Elite**    | **Help Alicia, but kill Silas**           | - Obtain loot from Silas.<br>- Different dialogue with Alicia.    |
 | **Ultimate** | **Any choice**                            | - You've experienced both main outcomes.<br>- Minor differences remain. |
 
@@ -315,7 +315,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Couple on the Road](https://grimdawn.fandom.com/wiki/Couple_on_the_Road)
 
-**Location**: Twin Falls towards East Marsh
+**Location**: [Twin Falls](https://grimdawn.fandom.com/wiki/Twin_Falls) towards [East Marsh](https://grimdawn.fandom.com/wiki/East_Marsh)
 
 **Choice Description**:
 
@@ -325,7 +325,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 | Difficulty   | Choice                                     | Consequences                                                      |
 |--------------|--------------------------------------------|-------------------------------------------------------------------|
-| **Normal**   | **Forgive deception and direct to Devil's Crossing** | - Positive outcome.<br>- Minor reputation gains.             |
+| **Normal**   | **Forgive deception and direct to [Devil's Crossing](https://grimdawn.fandom.com/wiki/Devil%27s_Crossing)** | - Positive outcome.<br>- Minor reputation gains.             |
 | **Elite**    | **Kill the couple**                        | - Obtain loot.<br>- Negative moral choice.                        |
 | **Ultimate** | **Ignore the couple**                      | - No interaction.<br>- Neutral outcome.                            |
 
@@ -339,11 +339,11 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Kalista's Rescue](https://grimdawn.fandom.com/wiki/Kalista)
 
-**Location**: Hallowed Hill
+**Location**: [Hallowed Hill](https://grimdawn.fandom.com/wiki/Hallowed_Hill)
 
 **Choice Description**:
 
-- Decide the fate of Kalista, a trapped girl.
+- Decide the fate of [Kalista](https://grimdawn.fandom.com/wiki/Kalista), a trapped girl.
 
 ##### Choices and Consequences:
 
@@ -361,7 +361,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### Faction Choice: [Kymon's Chosen](https://grimdawn.fandom.com/wiki/Kymon%27s_Chosen) vs. [Order of Death's Vigil](https://grimdawn.fandom.com/wiki/Order_of_Death%27s_Vigil)
 
-**Location**: Homestead
+**Location**: [Homestead](https://grimdawn.fandom.com/wiki/Homestead)
 
 **Choice Description**:
 
@@ -371,9 +371,9 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 | Difficulty   | Choice                                      | Consequences                                                      |
 |--------------|---------------------------------------------|-------------------------------------------------------------------|
-| **Normal**   | **Side with Kymon's Chosen**                | - Access to their quests and items.<br>- Order becomes hostile.   |
+| **Normal**   | **Side with [Kymon's Chosen](https://grimdawn.fandom.com/wiki/Kymon%27s_Chosen)** | - Access to their quests and items.<br>- Order becomes hostile.   |
 | **Elite**    | **Side with Kymon's Chosen**                | - Build reputation towards Revered.<br>- Easier to reach Nemesis status. |
-| **Ultimate** | **Side with Order of Death's Vigil**        | - Experience their quests and items.<br>- Kymon's Chosen become hostile. |
+| **Ultimate** | **Side with [Order of Death's Vigil](https://grimdawn.fandom.com/wiki/Order_of_Death%27s_Vigil)** | - Experience their quests and items.<br>- Kymon's Chosen become hostile. |
 
 **Note**: While part of the main storyline, the depth of content is **easily missable** if you don't engage with faction quests.
 
@@ -383,7 +383,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Burn the Witch](https://grimdawn.fandom.com/wiki/Burn_the_Witch)
 
-**Location**: Blood Grove
+**Location**: [Blood Grove](https://grimdawn.fandom.com/wiki/Blood_Grove)
 
 **Choice Description**:
 
@@ -407,7 +407,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Lost Armaments](https://grimdawn.fandom.com/wiki/Lost_Armaments)
 
-**Location**: Fort Ikon
+**Location**: [Fort Ikon](https://grimdawn.fandom.com/wiki/Fort_Ikon)
 
 **Choice Description**:
 
@@ -417,8 +417,8 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 | Difficulty   | Choice                                      | Consequences                                                      |
 |--------------|---------------------------------------------|-------------------------------------------------------------------|
-| **Normal**   | **Return supplies to Black Legion in Fort Ikon** | - Gain reputation with [Black Legion](https://grimdawn.fandom.com/wiki/Black_Legion).<br>- Receive their rewards. |
-| **Elite**    | **Give supplies to Homestead**              | - Gain reputation with [Homestead](https://grimdawn.fandom.com/wiki/Homestead).<br>- Different rewards.         |
+| **Normal**   | **Return supplies to [Black Legion](https://grimdawn.fandom.com/wiki/Black_Legion) in Fort Ikon** | - Gain reputation with [Black Legion](https://grimdawn.fandom.com/wiki/Black_Legion).<br>- Receive their rewards. |
+| **Elite**    | **Give supplies to [Homestead](https://grimdawn.fandom.com/wiki/Homestead)**              | - Gain reputation with Homestead.<br>- Different rewards.         |
 | **Ultimate** | **Any choice**                              | - You've experienced both outcomes.                               |
 
 **Note**: This quest is **easily missable** because it's optional and requires finding specific items.
@@ -429,11 +429,11 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Anasteria's Fate](https://grimdawn.fandom.com/wiki/Anasteria)
 
-**Location**: Fort Ikon
+**Location**: [Fort Ikon](https://grimdawn.fandom.com/wiki/Fort_Ikon)
 
 **Choice Description**:
 
-- Decide whether to be friendly or hostile to Anasteria.
+- Decide whether to be friendly or hostile to [Anasteria](https://grimdawn.fandom.com/wiki/Anasteria).
 
 ##### Choices and Consequences:
 
@@ -453,7 +453,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### Faction Choice: [Barrowholm](https://grimdawn.fandom.com/wiki/Barrowholm)
 
-**Location**: Barrowholm
+**Location**: [Barrowholm](https://grimdawn.fandom.com/wiki/Barrowholm)
 
 **Choice Description**:
 
@@ -465,7 +465,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 |--------------|----------------------------------------|-------------------------------------------------------------------|
 | **Normal**   | **Be hostile to Barrowholm**           | - Experience hostile quests.<br>- Begin working towards Nemesis status. |
 | **Elite**    | **Be friendly with Barrowholm**        | - Access to their quests and items.<br>- Gain reputation.         |
-| **Ultimate** | **Be friendly with Barrowholm**,<br>**Kill Larria** | - Access their content.<br>- Experience alternate interactions by killing Larria. |
+| **Ultimate** | **Be friendly with Barrowholm**,<br>**Kill [Larria](https://grimdawn.fandom.com/wiki/Larria)** | - Access their content.<br>- Experience alternate interactions by killing Larria. |
 
 **Note**: This choice is significant and **easily missable** if you don't engage deeply with the NPCs in Barrowholm.
 
@@ -475,11 +475,11 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Ulgrim in the Void](https://grimdawn.fandom.com/wiki/Ulgrim)
 
-**Location**: Void's Edge
+**Location**: [Void's Edge](https://grimdawn.fandom.com/wiki/Void%27s_Edge)
 
 **Choice Description**:
 
-- Decide how to interact with Ulgrim during his rescue.
+- Decide how to interact with [Ulgrim](https://grimdawn.fandom.com/wiki/Ulgrim) during his rescue.
 
 ##### Choices and Consequences:
 
@@ -499,11 +499,11 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Trapped Bloodsworn](https://grimdawn.fandom.com/wiki/Trapped_Bloodsworn)
 
-**Location**: Malmouth Sewers
+**Location**: [Malmouth Sewers](https://grimdawn.fandom.com/wiki/Malmouth_Sewers)
 
 **Choice Description**:
 
-- Decide whether to free or ignore the trapped Bloodsworn.
+- Decide whether to free or ignore the trapped [Bloodsworn](https://grimdawn.fandom.com/wiki/Bloodsworn).
 
 ##### Choices and Consequences:
 
@@ -521,11 +521,11 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Nicoh Erin and Kids](https://grimdawn.fandom.com/wiki/Nicoh_Erin)
 
-**Location**: Malmouth Outskirts
+**Location**: [Malmouth Outskirts](https://grimdawn.fandom.com/wiki/Malmouth_Outskirts)
 
 **Choice Description**:
 
-- Random outcome when interacting with Nicoh Erin.
+- Random outcome when interacting with [Nicoh Erin](https://grimdawn.fandom.com/wiki/Nicoh_Erin).
 
 ##### Choices and Consequences:
 
@@ -543,11 +543,11 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Ivonda's Diary](https://grimdawn.fandom.com/wiki/Ivonda)
 
-**Location**: Malmouth Sewers
+**Location**: [Malmouth Sewers](https://grimdawn.fandom.com/wiki/Malmouth_Sewers)
 
 **Choice Description**:
 
-- Decide whether to return Ivonda's diary or keep it.
+- Decide whether to return [Ivonda](https://grimdawn.fandom.com/wiki/Ivonda)'s diary or keep it.
 
 ##### Choices and Consequences:
 
@@ -565,7 +565,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Prisoner in The Fleshworks](https://grimdawn.fandom.com/wiki/Prisoner_in_The_Fleshworks)
 
-**Location**: The Fleshworks
+**Location**: [The Fleshworks](https://grimdawn.fandom.com/wiki/The_Fleshworks)
 
 **Choice Description**:
 
@@ -587,7 +587,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Post-Fleshworks NPC Dialogue](https://grimdawn.fandom.com/wiki/Post-Fleshworks_NPC_Dialogue)
 
-**Location**: After The Fleshworks
+**Location**: After [The Fleshworks](https://grimdawn.fandom.com/wiki/The_Fleshworks)
 
 **Choice Description**:
 
@@ -609,11 +609,11 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Anasteria and Korinia Interactions](https://grimdawn.fandom.com/wiki/Anasteria) & [Korinia](https://grimdawn.fandom.com/wiki/Korinia)
 
-**Requirement**: Anasteria must be alive; Honored reputation required.
+**Requirement**: [Anasteria](https://grimdawn.fandom.com/wiki/Anasteria) must be alive; Honored reputation required.
 
 **Choice Description**:
 
-- Complete quests and dialogues with Anasteria and Korinia.
+- Complete quests and dialogues with [Anasteria](https://grimdawn.fandom.com/wiki/Anasteria) and [Korinia](https://grimdawn.fandom.com/wiki/Korinia).
 
 ##### Choices and Consequences:
 
@@ -633,11 +633,11 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### Faction Choice: [Solael](https://grimdawn.fandom.com/wiki/Solael) vs. [Dreeg](https://grimdawn.fandom.com/wiki/Dreeg) vs. [Bysmiel](https://grimdawn.fandom.com/wiki/Bysmiel)
 
-**Location**: Conclave of the Three
+**Location**: [Conclave of the Three](https://grimdawn.fandom.com/wiki/Conclave_of_the_Three)
 
 **Choice Description**:
 
-- Choose to align with Solael, Dreeg, or Bysmiel.
+- Choose to align with [Solael](https://grimdawn.fandom.com/wiki/Solael), [Dreeg](https://grimdawn.fandom.com/wiki/Dreeg), or [Bysmiel](https://grimdawn.fandom.com/wiki/Bysmiel).
 
 ##### Choices and Consequences:
 
@@ -655,7 +655,7 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Solael's Aspirants](https://grimdawn.fandom.com/wiki/Solael%27s_Aspirants)
 
-**Location**: Solael's Bastion
+**Location**: [Solael's Bastion](https://grimdawn.fandom.com/wiki/Solael%27s_Bastion)
 
 **Choice Description**:
 
@@ -677,11 +677,11 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 #### [Ruins of Abyd Boss](https://grimdawn.fandom.com/wiki/Ruins_of_Abyd)
 
-**Location**: Ruins of Abyd
+**Location**: [Ruins of Abyd](https://grimdawn.fandom.com/wiki/Ruins_of_Abyd)
 
 **Choice Description**:
 
-- The boss present depends on your choice regarding the Trapped Bloodsworn in Act 6.
+- The boss present depends on your choice regarding the [Trapped Bloodsworn](https://grimdawn.fandom.com/wiki/Trapped_Bloodsworn) in Act 6.
 
 ##### Choices and Consequences:
 
@@ -697,70 +697,72 @@ This guide consolidates all critical choices, missable quests, and points of no 
 
 ---
 
-## Easily Missable Quests and Points of No Return
+Отличное замечание! Давай переименуем этот раздел на **Easily Missable Content and Points of No Return**, что лучше отражает суть описанного. Подкорректируем названия актов и колонок таблиц под это:
 
-Below is a consolidated list of **easily missable quests** and **points of no return**, organized by act.
+## Easily Missable Content and Points of No Return
 
-### Act 1 Missable Quests
+Below is a consolidated list of **easily missable content** and **points of no return**, organized by act.
 
-| Quest Name                | Location            | How to Trigger                                            | Point of No Return                                                |
-|---------------------------|---------------------|-----------------------------------------------------------|-------------------------------------------------------------------|
-| **[A Sacrifice](https://grimdawn.fandom.com/wiki/A_Sacrifice)**           | Burrwitch Outskirts | Talk with Isaac in the Cultist's Lair first, then grab<br>the Isaac's hidden stash in Wightmire. | Proceeding to Act 2 without completing locks you out.             |
-| **[Kasparov's Experiment](https://grimdawn.fandom.com/wiki/Kasparov's_Experiment)** | Devil's Crossing    | Requires Honored reputation; talk to Kasparov to start.   | Advancing too far without starting the quest can lock you out.    |
+### Act 1 Missable Content
+
+| Content Name             | Location            | How to Trigger                                            | Point of No Return                                                |
+|--------------------------|---------------------|-----------------------------------------------------------|-------------------------------------------------------------------|
+| **[A Sacrifice](https://grimdawn.fandom.com/wiki/A_Sacrifice)** | [Burrwitch Outskirts](https://grimdawn.fandom.com/wiki/Burrwitch_Outskirts) | Talk with [Isaac](https://grimdawn.fandom.com/wiki/Isaac) in the [Cultist's Lair](https://grimdawn.fandom.com/wiki/Cultist%27s_Lair) first, then grab the Isaac's hidden stash in [Wightmire](https://grimdawn.fandom.com/wiki/Wightmire). | Proceeding to Act 2 without completing locks you out.             |
+| **[Kasparov's Experiment](https://grimdawn.fandom.com/wiki/Kasparov's_Experiment)** | [Devil's Crossing](https://grimdawn.fandom.com/wiki/Devil%27s_Crossing) | Requires Honored reputation; talk to [Kasparov](https://grimdawn.fandom.com/wiki/Kasparov) to start. | Advancing too far without starting the quest can lock you out.    |
 
 ---
 
-### Act 2 Missable Quests
+### Act 2 Missable Content
 
-| Quest Name              | Location      | How to Trigger                                 | Point of No Return                                          |
+| Content Name            | Location      | How to Trigger                                 | Point of No Return                                          |
 |-------------------------|---------------|------------------------------------------------|-------------------------------------------------------------|
-| **[A Stranger in Need](https://grimdawn.fandom.com/wiki/A_Stranger_in_Need)**  | Old Arkovia   | Find and help the Rovers in the area.          | Proceeding to later acts without completing.                |
-| **[The Lost Elder](https://grimdawn.fandom.com/wiki/The_Lost_Elder)**      | Old Arkovia   | Speak to Amkala at the Rover camp.             | Advancing the main story can lock you out.                  |
+| **[A Stranger in Need](https://grimdawn.fandom.com/wiki/A_Stranger_in_Need)** | [Old Arkovia](https://grimdawn.fandom.com/wiki/Old_Arkovia) | Find and help the [Rovers](https://grimdawn.fandom.com/wiki/Rovers) in the area. | Proceeding to later acts without completing.                |
+| **[The Lost Elder](https://grimdawn.fandom.com/wiki/The_Lost_Elder)** | [Old Arkovia](https://grimdawn.fandom.com/wiki/Old_Arkovia) | Speak to [Amkala](https://grimdawn.fandom.com/wiki/Amkala) at the Rover camp. | Advancing the main story can lock you out.                  |
 
 ---
 
-### Act 3 Missable Quests
+### Act 3 Missable Content
 
-| Quest Name                  | Location    | How to Trigger                                | Point of No Return                                       |
-|-----------------------------|-------------|-----------------------------------------------|----------------------------------------------------------|
-| **[The Seamstress](https://grimdawn.fandom.com/wiki/The_Seamstress)**          | Homestead   | Rescue Mornay's sister in the Conflagration.  | Completing Act 3 without rescuing her.                   |
-| **[The Origin of the Slith](https://grimdawn.fandom.com/wiki/The_Origin_of_the_Slith)** | East Marsh  | Collect notes to unlock Hallowed Hill area.   | Proceeding without unlocking the area.                   |
-
----
-
-### Act 4 Missable Quests
-
-| Quest Name                 | Location          | How to Trigger                                    | Point of No Return                                      |
-|----------------------------|-------------------|---------------------------------------------------|---------------------------------------------------------|
-| **[The Immolation](https://grimdawn.fandom.com/wiki/The_Immolation)** | Fort Ikon        | Speak to Inquisitor Creed after main quest.       | Advancing to Ashes of Malmouth content.                 |
-| **[Bounty: Herald of Flame](https://grimdawn.fandom.com/wiki/Bounty:_Herald_of_Flame) (?)**    | Necropolis Interior | Find entrance to the Infernal Wastes.             | Completing Act 4 without entering the area.             |
+| Content Name              | Location    | How to Trigger                                | Point of No Return                                       |
+|---------------------------|-------------|-----------------------------------------------|----------------------------------------------------------|
+| **[The Seamstress](https://grimdawn.fandom.com/wiki/The_Seamstress)** | [Homestead](https://grimdawn.fandom.com/wiki/Homestead) | Rescue [Mornay](https://grimdawn.fandom.com/wiki/Mornay)'s sister in the [Conflagration](https://grimdawn.fandom.com/wiki/The_Conflagration). | Completing Act 3 without rescuing her.                   |
+| **[The Origin of the Slith](https://grimdawn.fandom.com/wiki/The_Origin_of_the_Slith)** | [East Marsh](https://grimdawn.fandom.com/wiki/East_Marsh) | Collect notes to unlock [Hallowed Hill](https://grimdawn.fandom.com/wiki/Hallowed_Hill) area. | Proceeding without unlocking the area.                   |
 
 ---
 
-### Act 5 Missable Quests
+### Act 4 Missable Content
 
-| Quest Name           | Location   | How to Trigger                            | Point of No Return                                      |
+| Content Name             | Location          | How to Trigger                                    | Point of No Return                                      |
+|--------------------------|-------------------|---------------------------------------------------|---------------------------------------------------------|
+| **[The Immolation](https://grimdawn.fandom.com/wiki/The_Immolation)** | [Fort Ikon](https://grimdawn.fandom.com/wiki/Fort_Ikon) | Speak to [Inquisitor Creed](https://grimdawn.fandom.com/wiki/Inquisitor_Creed) after the main quest. | Advancing to [Ashes of Malmouth](https://grimdawn.fandom.com/wiki/Ashes_of_Malmouth) content. |
+| **[Bounty: Herald of Flame](https://grimdawn.fandom.com/wiki/Bounty:_Herald_of_Flame)** | [Necropolis Interior](https://grimdawn.fandom.com/wiki/Necropolis_Interior) | Find entrance to the [Infernal Wastes](https://grimdawn.fandom.com/wiki/Infernal_Wastes). | Completing Act 4 without entering the area.             |
+
+---
+
+### Act 5 Missable Content
+
+| Content Name         | Location   | How to Trigger                            | Point of No Return                                      |
 |----------------------|------------|-------------------------------------------|---------------------------------------------------------|
-| **[Lost Father](https://grimdawn.fandom.com/wiki/Lost_Father)**        | Gloomwald  | Find Amala in the Gloomwald area.         | Proceeding to Act 6 without completing.                 |
-| **[The Gloomwald Stash](https://grimdawn.fandom.com/wiki/The_Gloomwald_Stash)** | Gloomwald | Find and unlock the secret stash.         | Advancing the main story can lock you out.              |
+| **[Lost Father](https://grimdawn.fandom.com/wiki/Lost_Father)** | [Gloomwald](https://grimdawn.fandom.com/wiki/Gloomwald) | Find [Amala](https://grimdawn.fandom.com/wiki/Amala) in the Gloomwald area. | Proceeding to Act 6 without completing.                 |
+| **[The Gloomwald Stash](https://grimdawn.fandom.com/wiki/The_Gloomwald_Stash)** | [Gloomwald](https://grimdawn.fandom.com/wiki/Gloomwald) | Find and unlock the secret stash. | Advancing the main story can lock you out.              |
 
 ---
 
-### Act 6 Missable Quests
+### Act 6 Missable Content
 
-| Quest Name             | Location           | How to Trigger                             | Point of No Return                                   |
-|------------------------|--------------------|--------------------------------------------|------------------------------------------------------|
-| **[The Hidden Path](https://grimdawn.fandom.com/wiki/The_Hidden_Path)**    | Multiple locations | Find the Runestone of Dreeg.               | Completing the main story without starting.          |
-| **[Anasteria's Side Quests](https://grimdawn.fandom.com/wiki/Anasteria)** | Fort Ikon     | Requires Honored reputation with The Outcast; talk to Anasteria. | Killing Anasteria locks you out. |
+| Content Name         | Location           | How to Trigger                             | Point of No Return                                   |
+|----------------------|--------------------|--------------------------------------------|------------------------------------------------------|
+| **[The Hidden Path](https://grimdawn.fandom.com/wiki/The_Hidden_Path)** | [Multiple locations](https://grimdawn.fandom.com/wiki/The_Hidden_Path) | Find the [Runestone of Dreeg](https://grimdawn.fandom.com/wiki/Runestone_of_Dreeg). | Completing the main story without starting.          |
+| **[Anasteria's Side Quests](https://grimdawn.fandom.com/wiki/Anasteria)** | [Fort Ikon](https://grimdawn.fandom.com/wiki/Fort_Ikon) | Requires Honored reputation with [The Outcast](https://grimdawn.fandom.com/wiki/The_Outcast); talk to [Anasteria](https://grimdawn.fandom.com/wiki/Anasteria). | Killing Anasteria locks you out. |
 
 ---
 
-### Act 7 Missable Quests
+### Act 7 Missable Content
 
-| Quest Name             | Location        | How to Trigger                                   | Point of No Return                                      |
-|------------------------|-----------------|--------------------------------------------------|---------------------------------------------------------|
-| **[Tomb of the Heretic](https://grimdawn.fandom.com/wiki/Tomb_of_the_Heretic)** | Korvan Plateau | Requires completing various side quests.         | Completing the main storyline without meeting conditions. |
-| **[Altar of Rattosh](https://grimdawn.fandom.com/wiki/Altar_of_Rattosh)**   | Ruins of Abyd   | Complete the Trapped Spirits quest.              | Choices in Act 6 affect accessibility.                  |
+| Content Name         | Location        | How to Trigger                                   | Point of No Return                                      |
+|----------------------|-----------------|--------------------------------------------------|---------------------------------------------------------|
+| **[Tomb of the Heretic](https://grimdawn.fandom.com/wiki/Tomb_of_the_Heretic)** | [Korvan Plateau](https://grimdawn.fandom.com/wiki/Korvan_Plateau) | Requires completing various side quests. | Completing the main storyline without meeting conditions. |
+| **[Altar of Rattosh](https://grimdawn.fandom.com/wiki/Altar_of_Rattosh)** | [Ruins of Abyd](https://grimdawn.fandom.com/wiki/Ruins_of_Abyd) | Complete the [Trapped Spirits](https://grimdawn.fandom.com/wiki/Trapped_Spirits) quest. | Choices in Act 6 affect accessibility.                  |
 
 ---
 
