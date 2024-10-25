@@ -680,9 +680,8 @@ Below is a consolidated list of **easily missable quests** and **points of no re
 
 | Quest Name                | Location            | How to Trigger                                            | Point of No Return                                                |
 |---------------------------|---------------------|-----------------------------------------------------------|-------------------------------------------------------------------|
-| **A Sacrifice**           | Burrwitch Outskirts | Find Milton Hart's amulet in the cellar of a house.       | Proceeding to Act 2 without completing locks you out.             |
-| **The Hidden Laboratory** | Wightmire           | Find and enter the Hidden Laboratory.                     | Access may be restricted after certain main quests.               |
-| **Kasparov's Experiment** | Devil's Crossing    | Requires Honored reputation; talk to Kasparov to start.   | Advancing too far without starting the quest can lock you out.    |
+| **[A Sacrifice](https://grimdawn.fandom.com/wiki/A_Sacrifice)**           | Burrwitch Outskirts | Talk with Isaac in the Cultist's Lair first, then grab<br>the Isaac's hidden stash in Wightmire. | Proceeding to Act 2 without completing locks you out.             |
+| **[Kasparov's Experiment](https://grimdawn.fandom.com/wiki/Kasparov's_Experiment)** | Devil's Crossing    | Requires Honored reputation; talk to Kasparov to start.   | Advancing too far without starting the quest can lock you out.    |
 
 ---
 
@@ -690,8 +689,8 @@ Below is a consolidated list of **easily missable quests** and **points of no re
 
 | Quest Name              | Location      | How to Trigger                                 | Point of No Return                                          |
 |-------------------------|---------------|------------------------------------------------|-------------------------------------------------------------|
-| **A Stranger in Need**  | Old Arkovia   | Find and help the Rovers in the area.          | Proceeding to later acts without completing.                |
-| **The Lost Elder**      | Old Arkovia   | Speak to Amkala at the Rover camp.             | Advancing the main story can lock you out.                  |
+| **[A Stranger in Need](https://grimdawn.fandom.com/wiki/A_Stranger_in_Need)**  | Old Arkovia   | Find and help the Rovers in the area.          | Proceeding to later acts without completing.                |
+| **[The Lost Elder](https://grimdawn.fandom.com/wiki/The_Lost_Elder)**      | Old Arkovia   | Speak to Amkala at the Rover camp.             | Advancing the main story can lock you out.                  |
 
 ---
 
@@ -699,8 +698,8 @@ Below is a consolidated list of **easily missable quests** and **points of no re
 
 | Quest Name                  | Location    | How to Trigger                                | Point of No Return                                       |
 |-----------------------------|-------------|-----------------------------------------------|----------------------------------------------------------|
-| **The Seamstress**          | Homestead   | Rescue Mornay's sister in the Conflagration.  | Completing Act 3 without rescuing her.                   |
-| **The Origin of the Slith** | East Marsh  | Collect notes to unlock Hallowed Hill area.   | Proceeding without unlocking the area.                   |
+| **[The Seamstress](https://grimdawn.fandom.com/wiki/The_Seamstress)**          | Homestead   | Rescue Mornay's sister in the Conflagration.  | Completing Act 3 without rescuing her.                   |
+| **[The Origin of the Slith](https://grimdawn.fandom.com/wiki/The_Origin_of_the_Slith)** | East Marsh  | Collect notes to unlock Hallowed Hill area.   | Proceeding without unlocking the area.                   |
 
 ---
 
@@ -708,8 +707,8 @@ Below is a consolidated list of **easily missable quests** and **points of no re
 
 | Quest Name                 | Location          | How to Trigger                                    | Point of No Return                                      |
 |----------------------------|-------------------|---------------------------------------------------|---------------------------------------------------------|
-| **Cleansing the Immolation** | Fort Ikon        | Speak to Inquisitor Creed after main quest.       | Advancing to Ashes of Malmouth content.                 |
-| **The Herald of Flame**    | Necropolis Interior | Find entrance to the Infernal Wastes.             | Completing Act 4 without entering the area.             |
+| **[The Immolation](https://grimdawn.fandom.com/wiki/The_Immolation)** | Fort Ikon        | Speak to Inquisitor Creed after main quest.       | Advancing to Ashes of Malmouth content.                 |
+| **[Bounty: Herald of Flame](https://grimdawn.fandom.com/wiki/Bounty:_Herald_of_Flame) (?)**    | Necropolis Interior | Find entrance to the Infernal Wastes.             | Completing Act 4 without entering the area.             |
 
 ---
 
@@ -717,8 +716,8 @@ Below is a consolidated list of **easily missable quests** and **points of no re
 
 | Quest Name           | Location   | How to Trigger                            | Point of No Return                                      |
 |----------------------|------------|-------------------------------------------|---------------------------------------------------------|
-| **Lost Hope**        | Gloomwald  | Find Amala in the Gloomwald area.         | Proceeding to Act 6 without completing.                 |
-| **The Gloomwald Stash** | Gloomwald | Find and unlock the secret stash.         | Advancing the main story can lock you out.              |
+| **[Lost Father](https://grimdawn.fandom.com/wiki/Lost_Father)**        | Gloomwald  | Find Amala in the Gloomwald area.         | Proceeding to Act 6 without completing.                 |
+| **[The Gloomwald Stash](https://grimdawn.fandom.com/wiki/The_Gloomwald_Stash)** | Gloomwald | Find and unlock the secret stash.         | Advancing the main story can lock you out.              |
 
 ---
 
@@ -726,8 +725,8 @@ Below is a consolidated list of **easily missable quests** and **points of no re
 
 | Quest Name             | Location           | How to Trigger                             | Point of No Return                                   |
 |------------------------|--------------------|--------------------------------------------|------------------------------------------------------|
-| **The Hidden Path**    | Multiple locations | Find the Runestone of Dreeg.               | Completing the main story without starting.          |
-| **Anasteria's Side Quests** | Fort Ikon     | Requires Honored reputation with The Outcast; talk to Anasteria. | Killing Anasteria locks you out. |
+| **[The Hidden Path](https://grimdawn.fandom.com/wiki/The_Hidden_Path)**    | Multiple locations | Find the Runestone of Dreeg.               | Completing the main story without starting.          |
+| **[Anasteria's Side Quests](https://grimdawn.fandom.com/wiki/Anasteria)** | Fort Ikon     | Requires Honored reputation with The Outcast; talk to Anasteria. | Killing Anasteria locks you out. |
 
 ---
 
@@ -735,8 +734,8 @@ Below is a consolidated list of **easily missable quests** and **points of no re
 
 | Quest Name             | Location        | How to Trigger                                   | Point of No Return                                      |
 |------------------------|-----------------|--------------------------------------------------|---------------------------------------------------------|
-| **The Tomb of the Heretic** | Korvan Plateau | Requires completing various side quests.         | Completing the main storyline without meeting conditions. |
-| **Altar of Rattosh**   | Ruins of Abyd   | Complete the Trapped Spirits quest.              | Choices in Act 6 affect accessibility.                  |
+| **[Tomb of the Heretic](https://grimdawn.fandom.com/wiki/Tomb_of_the_Heretic)** | Korvan Plateau | Requires completing various side quests.         | Completing the main storyline without meeting conditions. |
+| **[Altar of Rattosh](https://grimdawn.fandom.com/wiki/Altar_of_Rattosh)**   | Ruins of Abyd   | Complete the Trapped Spirits quest.              | Choices in Act 6 affect accessibility.                  |
 
 ---
 
